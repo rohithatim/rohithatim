@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Backend developer from India</h3>
 
 - 🔭 I’m currently working on **Backend**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hatimrohit079@gmail.com**
 
-- ⚡ Fun fact **like caffeine**
+- ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
